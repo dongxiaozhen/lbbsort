@@ -1,4 +1,4 @@
-package sort
+package lbbsort
 
 func HeapSort(nums []int) {
 	buildHeap(nums)

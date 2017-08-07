@@ -1,4 +1,4 @@
-package sort
+package lbbsort
 
 func QuickSort(nums []int) {
 	qsort(nums, 0, len(nums)-1)

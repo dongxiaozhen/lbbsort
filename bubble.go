@@ -1,4 +1,4 @@
-package sort
+package lbbsort
 
 // 循环遍历最大
 func BubbleSort(nums []int) {

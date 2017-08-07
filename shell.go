@@ -1,4 +1,4 @@
-package sort
+package lbbsort
 
 // 0-----2----4---6---8
 // 8和6比较，6和4比较，4和2比较，，
